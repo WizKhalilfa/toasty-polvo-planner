@@ -37,3 +37,8 @@ We made sure to make a system that can deal with a tight budget, handmade batche
 - Utilized our skills to help a small business
 
 __Salamat to Filipino Americans in Tech for this opportunity!__
+
+### Try it out:
+- [Google Sheets](https://docs.google.com/spreadsheets/d/1dqY06_XTtvLjjo7g6R683cRmcyUUdEbW-D17bKu5fEY/edit?usp=sharing)
+- [Figma Prototype](https://www.figma.com/proto/7V8FSrSU6LigAyJbrCdc3d/Toasty-Polvo-Production-Planner?node-id=6-2&p=f&t=7VC3DHj1e8AMf8zB-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A2)
+- [Miro Project Management](https://miro.com/app/board/uXjVJ_V8k0c=/?share_link_id=985131421945)
